@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrow and The ECHELON", "Arrow and The ECHELON\Arrow and The ECHELON.csproj", "{A7698D94-C469-4754-8563-14C35626623B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Girlfriends demands", "Girlfriends demands\Girlfriends demands.csproj", "{8E73A03D-6DD8-4E8C-B25C-E4495CB41600}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A7698D94-C469-4754-8563-14C35626623B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7698D94-C469-4754-8563-14C35626623B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7698D94-C469-4754-8563-14C35626623B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E73A03D-6DD8-4E8C-B25C-E4495CB41600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E73A03D-6DD8-4E8C-B25C-E4495CB41600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E73A03D-6DD8-4E8C-B25C-E4495CB41600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E73A03D-6DD8-4E8C-B25C-E4495CB41600}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
