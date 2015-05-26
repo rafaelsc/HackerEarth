@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Girlfriends demands", "Girl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Password\Password.csproj", "{84FAE026-C5CF-4667-9F4F-EE655025EFBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromicNumbers", "PalindromicNumbers\PalindromicNumbers.csproj", "{8B01EF5C-78DD-4292-B888-343DCAA718E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{84FAE026-C5CF-4667-9F4F-EE655025EFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84FAE026-C5CF-4667-9F4F-EE655025EFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84FAE026-C5CF-4667-9F4F-EE655025EFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B01EF5C-78DD-4292-B888-343DCAA718E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B01EF5C-78DD-4292-B888-343DCAA718E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B01EF5C-78DD-4292-B888-343DCAA718E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B01EF5C-78DD-4292-B888-343DCAA718E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
